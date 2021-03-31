@@ -15,7 +15,7 @@
         <commons-codec.version>1.11</commons-codec.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <commons-text.version>1.6</commons-text.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <httpclient.version>4.5.6</httpclient.version>
         <httpcore.version>4.4.10</httpcore.version>
         <hystrix-core.version>1.5.12</hystrix-core.version>
